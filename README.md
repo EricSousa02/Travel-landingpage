@@ -14,7 +14,7 @@ Siga as instruções abaixo para configurar e executar o projeto em sua máquina
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/EricSousa02/Travel-landingpage.git
    ```
 
 2. **Acesse o Diretório:**
